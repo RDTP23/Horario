@@ -1,16 +1,39 @@
+html {
+    font-family: sans-serif;
+  }
 
+  table {
+    border-collapse: collapse;
+    border: 2px solid rgb(8, 8, 8);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+  }
+
+  td, th {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px 20px;
+  }
+
+  td {
+    text-align: center;
+  }
+
+  caption {
+    padding: 10px;
+  }
+  
 .mp07 {
     background-color: #f4b6c2;
     color: #000;
 }
 
 .mp08 {
-    background-color: #c6d7eb;
-    color: #000;
+    background-color: #3488e9;
+    color: rgb(207, 0, 0);
 }
 
 .mp04 {
-    background-color: #a8d5ba;
+    background-color: #19df68;
     color: #000;
 }
 
